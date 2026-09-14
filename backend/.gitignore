@@ -1,0 +1,5 @@
+# License: NPL-KK
+node_modules/
+.env
+.env.local
+*.log
