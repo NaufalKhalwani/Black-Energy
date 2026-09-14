@@ -113,7 +113,7 @@ export default function AdminPanel() {
   };
 
   return (
-    <div className="min-h-screen bg-neutral-950 text-neutral-100 font-sans pt-28 pb-20 px-4 sm:px-6">
+    <div className="min-h-screen bg-transparent text-neutral-100 font-sans pt-28 pb-20 px-4 sm:px-6 relative z-10">
       <Navbar />
 
       <div className="max-w-7xl mx-auto space-y-8">
